@@ -1,0 +1,23 @@
+{
+    "name": "mitrm/yii2-gourlio",
+    "description": "gourl.io payment extension.",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","gourlio","bitcoin","altcoin"],
+    "license": "GNU GPL 3",
+    "authors": [
+        {
+            "name": "Ruslan Miskevich",
+            "email": "ruslantm.ru@gmail.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "mitrm\\gourlio\\": "src"
+        }
+    }
+}
