@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-composer require --prefer-dist gourlio/yii2-gourlio "*"
+composer require --prefer-dist mitrm/yii2-gourlio "*"
 ```
 
 or add
 
 ```
-"gourlio/yii2-gourlio": "*"
+"mitrm/yii2-gourlio": "*"
 ```
 
 to the require section of your `composer.json` file.
